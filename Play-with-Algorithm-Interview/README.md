@@ -38,3 +38,7 @@
 
 350-[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 
+(3) 使用查找表的经典问题: Two Sum
+
+1-Two Sum  
+
