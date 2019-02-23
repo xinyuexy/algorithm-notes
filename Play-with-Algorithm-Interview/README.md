@@ -40,5 +40,10 @@
 
 (3) 使用查找表的经典问题: Two Sum
 
-1-Two Sum  
+1-Two Sum  15-3Sum  18-4Sum   16-3Sum Closest 
+
+(4) 灵活选择键值，究竟要查找什么.<br>
+454-4Sum II 49-Group Anagrams
+
+447-Number of Boomerangs    149-Max Points on a Line
 
