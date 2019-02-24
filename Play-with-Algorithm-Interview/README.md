@@ -30,11 +30,11 @@
 
 
 
-（1）set的使用
+(1) set的使用
 
 [349-Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) 
 
-（2）map的使用
+(2) map的使用
 
 350-[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
 
@@ -47,3 +47,8 @@
 
 447-Number of Boomerangs    149-Max Points on a Line
 
+(5) 查找表和滑动窗口 Contain Duplicate II <br>
+219-Contains Duplicate II
+
+(6) 二分搜索树底层实现的顺序性 Contain Duplicate III <br>
+220-Contains Duplicate III
