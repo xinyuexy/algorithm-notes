@@ -22,12 +22,8 @@
 
 **set和map**
 
-<img src="http://ww1.sinaimg.cn/large/006SQxbply1g0bu1jdx3qj30xk0gyjxi.jpg" style="60%"/>
 
 >  哈希表的缺点是失去了数据的顺序性。
-
-<img src="http://ww1.sinaimg.cn/mw690/006SQxbply1g0bu54dbzkj30k50giwio.jpg" style="60%"/>
-
 
 
 (1) set的使用
@@ -52,3 +48,16 @@
 
 (6) 二分搜索树底层实现的顺序性 Contain Duplicate III <br>
 220-Contains Duplicate III
+
+
+
+#### 3.链表
+**穿针引线**
+
+(1) 反转链表 <br>
+206-Reverse Linked List
+
+反转m-n之间的链表:92-Reverse Linked List II
+
+(2) 测试你的链表程序 <br>
+[2-Add Two Numbers]   [83-Remove Duplicates from Sorted List]   [86-Partition List](https://leetcode.com/problems/partition-list/)
