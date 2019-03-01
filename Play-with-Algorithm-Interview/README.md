@@ -61,3 +61,6 @@
 
 (2) 测试你的链表程序 <br>
 [2-Add Two Numbers]   [83-Remove Duplicates from Sorted List]   [86-Partition List](https://leetcode.com/problems/partition-list/)
+
+(3) 虚拟头结点(统一情况)<br>
+[203-Remove Linked List Elements]   [82-Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
