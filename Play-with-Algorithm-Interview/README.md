@@ -64,3 +64,13 @@
 
 (3) 虚拟头结点(统一情况)<br>
 [203-Remove Linked List Elements]   [82-Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+(4)  5-4 复杂的穿针引线 <br>
+[24-Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)      [25-Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+> 注意在做链表题的时候学会画图，设置好每个指针以及其作用。
+
+(5)  5-5 不仅仅是穿针引线 Delete Node in a Linked List
+
+(6) 5-6 链表与双指针 Remove Nth Node Form End of List <br>
+[19-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
