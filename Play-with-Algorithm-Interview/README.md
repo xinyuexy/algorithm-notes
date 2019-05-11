@@ -1,6 +1,6 @@
-### LeetCode刷题套路总结
+## LeetCode刷题套路总结
 
-#### 1.数组
+### 1.数组
 
 （1）双指针法（快慢，前后）
 
@@ -18,7 +18,7 @@
 
 209-[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)   	3-[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) 	76-[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
 
-#### 2.查找表
+### 2.查找表
 
 **set和map**
 
@@ -51,7 +51,7 @@
 
 
 
-#### 3.链表
+### 3.链表
 **穿针引线**
 
 (1) 反转链表 <br>
@@ -76,7 +76,7 @@
 [19-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
 [61-Rotate List](https://leetcode.com/problems/rotate-list/)    [143-Reorder List](https://leetcode.com/problems/reorder-list/)
 
-#### 4.栈，队列，优先队列
+### 4.栈，队列，优先队列
 (1) 6-1 栈的基础应用
 
 (2) 6-3 运用栈模拟递归（重点）<br>
@@ -90,7 +90,7 @@
 
 (5) 6-6 优先队列
 
-#### 5.二叉树和递归
+### 5.二叉树和递归
 **递归**：
 1. 跳出代码具体是怎样运行的，看代码本身所表示的语义。
 2. 语义：设计一个函数就是固定做一个任务，在写函数逻辑的时候保证它完成这个任务。（
