@@ -73,4 +73,38 @@
 (5)  5-5 不仅仅是穿针引线 Delete Node in a Linked List
 
 (6) 5-6 链表与双指针 Remove Nth Node Form End of List <br>
-[19-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+[19-Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
+[61-Rotate List](https://leetcode.com/problems/rotate-list/)    [143-Reorder List](https://leetcode.com/problems/reorder-list/)
+
+#### 4.栈，队列，优先队列
+(1) 6-1 栈的基础应用
+
+(2) 6-3 运用栈模拟递归（重点）<br>
+看老师实现的代码
+
+(3) 6-4 队列的典型应用 Binary Tree Level Order Traversal
+
+(4) 6-5 BFS和图的最短路径 Perfect Squares
+
+**广度优先遍历求最短路径：只针对无权图**
+
+(5) 6-6 优先队列
+
+#### 5.二叉树和递归
+**递归**：
+1. 跳出代码具体是怎样运行的，看代码本身所表示的语义。
+2. 语义：设计一个函数就是固定做一个任务，在写函数逻辑的时候保证它完成这个任务。（
+明确函数的意义，边界）
+
+**递归结构**: 1.递归终止条件；2.递归过程
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g2xq5hd4quj30y70c2gpo.jpg" style="zoom:80%"/>
+
+**二叉树天然的递归结构**
+
+
+**题目:**<br>
+>解题时学会使用递归, 不要考虑代码具体如何运行的细节，从递归结构的整体性上考虑，弄清楚函数的意义
+
+104-Maximum Depth of Binary Tree<br>
+111-Minimum Depth of Binary Tree<br>
+226-Invert Binary Tree<br>
