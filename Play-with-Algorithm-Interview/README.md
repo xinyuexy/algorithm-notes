@@ -91,15 +91,15 @@
 (5) 6-6 优先队列
 
 ### 5.二叉树和递归
-**递归**：
+**1) 递归**：
 1. 跳出代码具体是怎样运行的，看代码本身所表示的语义。
 2. 语义：设计一个函数就是固定做一个任务，在写函数逻辑的时候保证它完成这个任务。（
 明确函数的意义，边界）
 
-**递归结构**: 1.递归终止条件；2.递归过程
+**2) 递归结构**: 1.递归终止条件；2.递归过程
 <img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g2xq5hd4quj30y70c2gpo.jpg" style="zoom:80%"/>
 
-**二叉树天然的递归结构**
+**3) 二叉树天然的递归结构**
 
 
 **题目:**<br>
@@ -108,3 +108,11 @@
 104-Maximum Depth of Binary Tree<br>
 111-Minimum Depth of Binary Tree<br>
 226-Invert Binary Tree<br>
+
+**4) 注意递归的终止条件** <br>
+>多个条件,二叉树中可能是叶子结点
+
+**题目:**<br>
+112-Path Sum<br>
+111-Minimum Depth of Binary Tree<br>
+404-Sum of Left Leaves<br>
