@@ -116,3 +116,61 @@
 112-Path Sum<br>
 111-Minimum Depth of Binary Tree<br>
 404-Sum of Left Leaves<br>
+
+**5) 定义递归问题** <br>
+**题目**:<br>
+257-Binary Tree Path<br>
+113-Path Sum II<br>
+129-Sum Root to Leaf Numbers
+
+**6) 稍复杂的递归逻辑** <br>
+437-Path Sum III
+
+**7) 二分搜索树中的问题** <br>
+**题目**:<br>
+783 235	98 450 108 230 236 530
+
+### 5.递归和回溯法
+>Backtracking is an algorithm for finding all solutions by exploring all potential candidates. If the solution candidate turns to be not a solution (or at least not the last one), backtracking algorithm discards it by making some changes on the previous step, i.e. backtracks and then try again.
+
+**1) 树形问题** <br>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g36u5vzborj30z90i8qda.jpg" style="zoom: 80%"/>
+
+**2) 什么是回溯** <br>
+> 回溯法是暴力解法的一个主要实现手段，枚举所有可能性。
+
+**题目**：17 93 131	797
+
+**3) 排列问题** <br>
+
+46-Permutations(树形问题)
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g37zdhthllj30wa0fodmb.jpg" style="zoom: 80%"/>
+
+**4) 组合问题** <br>
+
+77-Combinations
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g380w2tcptj31080dngrz.jpg" style="zoom: 80%"/>
+
+**5) 回溯法解决组合问题的优化** <br>
+剪支
+
+77 39 40 216 78 90
+
+**6) 二维平面上的回溯法** <br>
+
+79-Word Search
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g397z5o7jwj30yl0eudm7.jpg" style="zoom: 80%"/>
+
+**7) floodfill算法，一类经典问题** <br>
+200-Number of Islands
+
+130 417	695 694 733
+
+**8) 回溯法是经典人工智能的基础 N Queens** <br>
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3b5e8kp91j30yr0g7q7f.jpg" style="zoom: 80%"/>
+
+51	52 37
