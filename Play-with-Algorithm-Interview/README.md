@@ -174,3 +174,26 @@
 <img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3b5e8kp91j30yr0g7q7f.jpg" style="zoom: 80%"/>
 
 51	52 37
+
+### 6.动态规划
+
+**1) 什么是动态规划**
+
+斐波那契数列问题：
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3ep4aenrvj30y10imqda.jpg" style="zoom:60%"/>
+
+**重叠子问题**
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3ep5ufj2oj30vj0iwwlq.jpg" style="zoom:60%"/>
+
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3ep84yx7yj30uo0h5q9e.jpg" style="zoom:60%"/>
+
+**动态规划定义：**
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3epcgic4zj30zt0iagtt.jpg" style="zoom:60%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3epdu97oij30w70iijy0.jpg" style="zoom:60%"/>
+
+
