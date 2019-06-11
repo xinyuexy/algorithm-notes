@@ -197,3 +197,57 @@
 <img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3epdu97oij30w70iijy0.jpg" style="zoom:60%"/>
 
 
+
+**2) 发现重叠子问题**
+
+343-Integer Break
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3o216fzkwj30xj0fngrx.jpg" style="zoom:60%"/>
+
+(最优子结构)
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3o23u8peoj30va0iuqa3.jpg" style="zoom:60%"/>
+
+
+**3) 状态的定义和状态转移**
+
+198-House Robber
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3q2zra19oj30wo0eags3.jpg" style="zoom:80%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3q33xr453j30yl0dg459.jpg" style="zoom:80%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3q3c93oxxj30qw0ecwj5.jpg" style="zoom:60%"/>
+
+题目：213 337 309
+
+**4) 0-1背包问题**
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r8i8trp4j30vy0iktdu.jpg" style="zoom:60%"/>
+
+**> 0-1背包问题的优化和变种**
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r8ykdfrhj30yb0if0yz.jpg" style="zoom:60%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r99m86gtj30x90go0xd.jpg" style="zoom:60%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r9e09mtqj30s30gydkh.jpg" style="zoom:60%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r9hbez83j30t70fbjv7.jpg" style="zoom:60%"/>
+
+<img src="https://ws1.sinaimg.cn/mw690/006SQxbply1g3r9hsq3m5j30nw0g5wi9.jpg" style="zoom:60%"/>
+
+
+**5) 面试中的0-1背包问题**
+
+416-Partition Equal Subset Sum
+
+题目：322 377 474 139 494
+
+**6) LIS问题 Longest Increasing Subsequence**
+
+300	376(多种解法)
+
+**7) LCS，最短路，求动态规划的具体解以及更多**
+
+求具体解时，反向查找
