@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Algorithm</name>
+	<name>my-algorithm</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1623664532665</id>
+			<id>1623664532668</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
